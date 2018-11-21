@@ -27,7 +27,17 @@ stops.delete_at(2)
 p stops
 
 # 7. How many stops there are in the array?
+number_of_stops = stops.count
+p number_of_stops
 
 # 8. How many ways can we return `"Falkirk High"` from the array?
+# 2 ways??
+
 # 9. Reverse the positions of the stops in the array
+stop_reverse = stops.reverse
+p stop_reverse
+
 # 10. Print out all the stops using a for loop
+for names in stops
+  p stops
+   end
